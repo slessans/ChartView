@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftUICharts",
+    name: "SwiftUICharts2",
     platforms: [
         .iOS(.v13), .watchOS(.v6), .macOS(.v10_15)
     ],
