@@ -5,7 +5,7 @@
 //  Created by Adrian Bolinger on 5/24/20.
 //
 
-@testable import SwiftUICharts
+@testable import SwiftUICharts2
 import SwiftUI
 import XCTest
 

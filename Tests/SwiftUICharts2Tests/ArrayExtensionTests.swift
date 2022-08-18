@@ -1,4 +1,4 @@
-@testable import SwiftUICharts
+@testable import SwiftUICharts2
 import XCTest
 
 class ArrayExtensionTests: XCTestCase {

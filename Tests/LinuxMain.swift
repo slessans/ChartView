@@ -1,7 +1,7 @@
 import XCTest
 
-import SwiftUIChartsTests
+import SwiftUICharts2Tests
 
 var tests = [XCTestCaseEntry]()
-tests += SwiftUIChartsTests.allTests()
+tests += SwiftUICharts2Tests.allTests()
 XCTMain(tests)
